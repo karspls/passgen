@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Passgen</string>
+    <string name="title_home">Пароли</string>
+    <string name="title_history">История</string>
+</resources>
